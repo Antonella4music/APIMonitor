@@ -1,0 +1,15 @@
+stop in t4t.power.management.activity.HomeActivity.onCreate
+stop in t4t.power.management.activity.HomeActivity.onResume
+stop in t4t.power.management.activity.HomeActivity.onPause
+stop in t4t.power.management.activity.HomeActivity.onStop
+stop in t4t.power.management.activity.SettingsActivity.onCreate
+stop in t4t.power.management.activity.SettingsActivity.onResume
+stop in t4t.power.management.activity.SettingsActivity.onPause
+stop in t4t.power.management.activity.SettingsActivity.onStop
+stop in t4t.power.management.activity.PushOffService.onReceive
+stop in t4t.power.management.activity.PushOnService.onReceive
+stop in t4t.power.management.activity.PowerStateReceiver.OnCreate
+stop in t4t.power.management.activity.BootDemoReceiver.OnCreate
+stop in t4t.power.management.activity.SmsReceiver.OnCreate
+stop in android.telephony.SmsManager.sendTextMessage
+use /home/santoku/host/sample4-builed-apktool-d/smali/
